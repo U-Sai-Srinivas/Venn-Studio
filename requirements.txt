@@ -1,0 +1,6 @@
+streamlit>=1.45
+pandas
+numpy
+openpyxl
+# optional: enables one-click vector PDF export
+# cairosvg
